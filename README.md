@@ -1,6 +1,6 @@
 # Godot SplashScreens
 
-This repository includes 40 different 4K splash screens, 18 vector logos and 1 animation to be used within Godot, as wallpaper or to promote Godot.
+This repository includes 70 different 4K splash screens, 18 vector logos and 1 animation to be used within Godot, as wallpaper or to promote Godot.
 
 <p align="center"><img src="Preview.png"/></p>
 
