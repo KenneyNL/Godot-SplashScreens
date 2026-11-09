@@ -6,7 +6,7 @@ This repository includes 70 different 4K splash screens, 18 vector logos and 1 a
 
 ### License
 
-1. The original Godot logo is made by Andrea Calabró and is [CC-BY-4.0 licensed](https://github.com/godotengine/godot/blob/master/LOGO_LICENSE.txt).
+1. The original Godot logo is made by Andrea Calabró and is CC-BY-4.0 licensed.
 2. Other derivative logos (reimagined logo, cog logo, text logo) featured in this pack are made by Kenney and are CC0 licensed.
 3. See additional license information regarding the Godot logo on [their website](https://godotengine.org/press/).
 
